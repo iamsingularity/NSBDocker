@@ -7,7 +7,7 @@ This sample is a simple console app using NServiceBus running on mono in a docke
 You will need docker and docker composer installed and working on your machine.
 
 1. git clone this repository
-1. Add your own `License.xml` file to the `TestConsoleApp` folder
+1. Add your own `License.xml` file to the `TestingConsoleApp` folder
 1. change directory to the repository
 1. `docker-compose pull`
 1. `docker-compose build`
